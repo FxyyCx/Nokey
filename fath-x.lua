@@ -1,7 +1,7 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/WhatsHisIdentifier/NoKey/refs/heads/main/Discord",true))()
 local WindUI = (loadstring(game:HttpGet("https://relzhub.farrghii.com/lib/lib.lua")))();
 local Window = WindUI:CreateWindow({
-	Title = "Relz Hub",
+	Title = "Fath Hub",
 	Author = "Fish it",
 	Folder = "Relz Hub",
 	Icon = "rbxassetid://90888007617642",
